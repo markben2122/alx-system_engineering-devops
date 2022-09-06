@@ -1,0 +1,2 @@
+#!/bib/bash
+egrep -A 3 'root' /etc/passwd
